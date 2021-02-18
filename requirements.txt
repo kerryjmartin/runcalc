@@ -1,0 +1,14 @@
+django
+django_heroku
+gunicorn
+os
+math
+Flask
+pandas
+plotly
+numpy
+dash
+dash-core-components
+dash-bootstrap-components
+dash-html-components
+dash-daq
