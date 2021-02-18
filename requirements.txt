@@ -1,7 +1,6 @@
 django
 django_heroku
 gunicorn
-os
 math
 Flask
 pandas
