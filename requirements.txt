@@ -1,7 +1,6 @@
 django
 django_heroku
 gunicorn
-math
 Flask
 pandas
 plotly
